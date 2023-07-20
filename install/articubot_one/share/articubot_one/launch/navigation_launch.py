@@ -1,0 +1,1 @@
+/home/zyme/ros/articulated_robotics/src/articubot_one/launch/navigation_launch.py
